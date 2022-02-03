@@ -15,8 +15,8 @@
 
 المخرجات يجب ان تكون على هذا النحو:
                                                                                                                                                                                 ```
-                                                                                                                                                         Can I buy the gift : False
+                                                                                                                                                         Can I buy the gift : false
                                                                                                                                                                                 ```و
                                                                                                                                                                                 ```
-                                                                                                                                               Can I buy the gift with 20 KD : True
+                                                                                                                                               Can I buy the gift with 20 KD : true
                                                                                                                                                                                 ```
